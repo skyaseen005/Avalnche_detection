@@ -109,5 +109,7 @@ A detailed paper on this work can be found in the repository under avalanchefina
 
 📬 Contact
 Author: SK. Yaseen Basha
+
 Email: yaseensk2005@gmail.com
+
 Affiliation: Lovely Professional University, Punjab, India
